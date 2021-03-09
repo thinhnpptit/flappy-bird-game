@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 76014081bd18d7c438026af4ac386712
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - panelEndGame: {instanceID: 0}
+  - endScore: {instanceID: 0}
+  - btnRestart: {instanceID: 0}
+  - txtScore: {instanceID: 0}
+  - btnClick: {fileID: 21300000, guid: a3ef6e3134475054092d013ab0f77708, type: 3}
+  - btnHover: {fileID: 21300000, guid: 82577778ea7105f4d8e7801f3a64f439, type: 3}
+  - btnIdle: {fileID: 21300000, guid: c2d4002b4450e754ba0393becb45696c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
